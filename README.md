@@ -10,13 +10,13 @@ In addition, you will need to install the Tkinter library. Tkinter comes pre-ins
 pip install tkinter
 ```
 ### How to run the application
-*## Download or clone the project to your local machine.
-*## Navigate to the project directory using the command line.
-*## Run the following command to start the application:
+* Download or clone the project to your local machine.
+* Navigate to the project directory using the command line.
+* Run the following command to start the application:
 ```py
 python main.py
 ```
-*## The login page should appear on the screen. Enter your username and password to log in.
+* The login page should appear on the screen. Enter your username and password to log in.
 
 ### Project structure
 The project contains the following files:
